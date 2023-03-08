@@ -54,6 +54,5 @@ def main():
     currentplayer = swap_player(currentplayer, player1, player2)
     print(f"{currentplayer} wins in {turn} turns!")
 
-
 if __name__ == "__main__":
     main()
