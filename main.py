@@ -1,4 +1,6 @@
-
+#fibonacci nim according to a wikipedia article I found
+#Made from the bottom up by Dorian Cottle
+#March 7th, 2023
 
 def get_int(min, max):
     i = 1
