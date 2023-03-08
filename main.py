@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 #fibonacci nim according to a wikipedia article I found
 #Made from the bottom up by Dorian Cottle
 #March 7th, 2023
